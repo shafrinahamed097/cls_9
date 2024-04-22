@@ -72,6 +72,8 @@ else{
     }
 }
 
+echo "Your grade is : $grade";
+
 
 
 ?>
